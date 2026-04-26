@@ -9,7 +9,7 @@
 <p align="center">
     💻 Estudiante de Licenciatura en Informática en la UNLP.<br>
     📓 Actualmente cursando el primer semestre del segundo año.<br>
-    🍎 A Fiona Apple le rezo<br>
+    🎶 No juego con Björk, Madonna y PJ Harvey.<br>
     🎬 Fan del cine, David Lynch y las cantantes alternativas de los 90.
 </p>
 
@@ -34,7 +34,6 @@
 </p>
 
 <p align="center">
-    <img src="https://www.bjork.fr/IMG/jpg/bjork-1994-john-stoddart-03-pj-harvey-tori-amos.jpg" alt="Björk, PJ Harvey y Tori Amos" height="250" />
     <img src="https://media.tenor.com/aew7tO8pn3AAAAAj/super-mario-world-yoshi.gif" alt="Mario y Yoshi" height="250" />
 </p>
 
