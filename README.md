@@ -8,7 +8,7 @@
 
 <p align="center">
     💻 Estudiante de Licenciatura en Informática en la UNLP.<br>
-    📓 Actualmente cursando el primer semestre del primer año.<br>
+    📓 Actualmente cursando el primer semestre del segundo año.<br>
     🍎 Del CAFA (Club Atlético Fiona Apple).<br>
     🎬 Fan del cine, David Lynch y las cantantes alternativas de los 90.
 </p>
@@ -33,9 +33,9 @@
     </a>
 </p>
 
-<p align="center">
+<!--<p align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,js" alt="Java, HTML, CSS y JavaScript" />
-</p>
+</p> -->
 
 <p align="center">
     <img src="https://www.bjork.fr/IMG/jpg/bjork-1994-john-stoddart-03-pj-harvey-tori-amos.jpg" alt="Björk, PJ Harvey y Tori Amos" height="250" />
