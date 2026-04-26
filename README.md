@@ -50,3 +50,6 @@
         <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" />
     </a>
 </p>
+<p align="center">
+    <img src="https://media.tenor.com/aew7tO8pn3AAAAAj/super-mario-world-yoshi.gif" alt="Mario y Yoshi" height="250" />
+</p>
