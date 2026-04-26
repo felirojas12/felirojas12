@@ -35,6 +35,7 @@
 
 <p align="center">
     <img src="https://www.bjork.fr/IMG/jpg/bjork-1994-john-stoddart-03-pj-harvey-tori-amos.jpg" alt="Björk, PJ Harvey y Tori Amos" height="250" />
+    <img src="https://media.tenor.com/aew7tO8pn3AAAAAj/super-mario-world-yoshi.gif" alt="Mario y Yoshi" height="250" />
 </p>
 
 <h3 align="center">Encontrame en</h3>
@@ -49,7 +50,4 @@
     <a href="https://www.last.fm/user/Felynx12" target="_blank">
         <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" />
     </a>
-</p>
-<p align="center">
-    <img src="https://media.tenor.com/aew7tO8pn3AAAAAj/super-mario-world-yoshi.gif" alt="Mario y Yoshi" height="250" />
 </p>
